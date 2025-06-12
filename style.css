@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Painting 1 - Mimi Arts Studio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Kendall Jenner A5</h1>
+    <nav>
+      <a href="gallery.html">Back to Gallery</a>
+    </nav>
+  </header>
+
+  <section style="text-align: center; padding: 2rem;">
+    <img src="C:\Users\UVARAJ.A\Desktop\originalWebpage\images\Screenshot 2025-06-12 094322.png" alt="Kendall Jenner" style="max-width: 90%; height: auto; border-radius: 12px;">
+    <h2>Kendall Jenner</h2>
+    <h3>Description</h3>
+    <p>
+      A blend of orange and skin undertones, when Kendall Jenner slayed the Canner Film Festival with her gorgeous diamond necklace and no makeup look.<br> Medium - Watercolors <br> A5 Watercolor paper - 200 GSM</p>
+  </section>
+
+</body>
+</html>
